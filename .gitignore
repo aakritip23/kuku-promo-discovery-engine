@@ -1,0 +1,25 @@
+# Confidential Kuku assignment data
+data/screenplay_input/
+data/llm_judgements_all.jsonl
+
+# Generated outputs and experiment results
+outputs/
+outputs_replay_run1/
+raw_outputs/
+
+# Assignment documents pending confidentiality review
+solution_document.pdf
+tests/QA_AUDIT_REPORT.md
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+demo_public_check/

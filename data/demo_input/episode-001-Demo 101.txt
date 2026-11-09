@@ -1,0 +1,64 @@
+EPISODE NUMBER: Episode 101
+EPISODE LOGLINE: A test logline.
+CONTINUITY NOTES: Synthetic test episode.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOR OFFICE – NIGHT
+Scene start: 00:00.00
+Scene end: 00:58.00
+
+Actions and dialogue:
+
+**CAPTAIN MARA (Furious):**
+Start: (00:00.50) | End: (00:02.50)
+"You sold the harbor to the man who killed my brother!"
+
+**TOBIAS (Panicked):**
+Start: (00:03.00) | End: (00:05.50)
+"I had no choice, Mara. He has the ledger."
+
+**ACTION:**
+Start: (00:05.50) | End: (00:08.00)
+Mara slams the ledger onto the desk, scattering sealed letters across the floor.
+
+**CAPTAIN MARA (Cold):**
+Start: (00:08.50) | End: (00:11.00)
+"Then tell me who signed the order, Tobias."
+
+**TOBIAS (Trembling):**
+Start: (00:11.50) | End: (00:14.00)
+"If I say his name, we both die tonight."
+
+**ACTION:**
+Start: (00:14.50) | End: (00:17.00)
+A lantern shatters outside; footsteps cross the deck above them.
+
+**CAPTAIN MARA (Desperate):**
+Start: (00:17.50) | End: (00:20.00)
+"Say it. Say the name!"
+
+**TOBIAS (Whispering):**
+Start: (00:20.50) | End: (00:23.00)
+"It was never him. It was you, Mara."
+
+**CAPTAIN MARA (Shocked):**
+Start: (00:24.00) | End: (00:27.00)
+"What did you just say to me?"
+
+**TOBIAS (Terrified):**
+Start: (00:28.00) | End: (00:31.00)
+"Your own father signed the order. He is still alive."
+
+**ACTION:**
+Start: (00:31.50) | End: (00:34.00)
+The door bursts open. A hooded figure stands in the lamplight.
+
+**HOODED MAN (Menacing):**
+Start: (00:34.50) | End: (00:37.50)
+"Hello, my daughter. Did you miss me?"
+
+**CAPTAIN MARA (Breathless):**
+Start: (00:38.00) | End: (00:40.00)
+"Father...?"

@@ -1,0 +1,60 @@
+EPISODE NUMBER: Episode 102
+EPISODE LOGLINE: A test logline.
+CONTINUITY NOTES: Synthetic test episode.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. KITCHEN – DAY
+Scene start: 00:00.00
+Scene end: 00:50.00
+
+Actions and dialogue:
+
+**ANNA (Calm):**
+Start: (00:01.00) | End: (00:03.00)
+"Good morning."
+
+**BEN (Calm):**
+Start: (00:03.50) | End: (00:05.50)
+"Good morning. Did you sleep well?"
+
+**ANNA (Calm):**
+Start: (00:06.00) | End: (00:08.00)
+"Yes, thank you. Would you like some tea?"
+
+**BEN (Calm):**
+Start: (00:08.50) | End: (00:10.50)
+"Tea would be lovely."
+
+**ANNA (Calm):**
+Start: (00:11.00) | End: (00:13.00)
+"I will put the kettle on."
+
+**BEN (Calm):**
+Start: (00:13.50) | End: (00:15.50)
+"The weather is fine today."
+
+**ANNA (Calm):**
+Start: (00:16.00) | End: (00:18.00)
+"It is. I think I will walk later."
+
+**BEN (Calm):**
+Start: (00:18.50) | End: (00:20.50)
+"That sounds pleasant."
+
+**ANNA (Calm):**
+Start: (00:21.00) | End: (00:23.00)
+"The tea is ready."
+
+**BEN (Calm):**
+Start: (00:23.50) | End: (00:25.50)
+"Thank you, Anna."
+
+**ANNA (Calm):**
+Start: (00:26.00) | End: (00:28.00)
+"You are welcome."
+
+**BEN (Calm):**
+Start: (00:28.50) | End: (00:30.50)
+"I will see you at dinner."

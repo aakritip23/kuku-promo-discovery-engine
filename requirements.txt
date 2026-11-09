@@ -1,0 +1,5 @@
+# Runtime dependencies of the Streamlit app.
+# The pipeline itself (parser -> detector -> evaluator -> ranker, run_pipeline.py) uses only the Python standard library.
+# Tested with: Python 3.11, 3.12, 3.13 / streamlit 1.67 / pandas 3.0
+streamlit>=1.40,<2
+pandas>=2.0,<4
